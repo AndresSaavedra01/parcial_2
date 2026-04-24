@@ -82,22 +82,16 @@ Se utilizaron rutas declarativas de gestión dinámica (`go_router`) con constan
 *(Nota docente: Agrega tus pantallazos localmente dentro del repo insertando las imágenes en las ubicaciones listadas a continuación)*
 
 1. **Dashboard Principal**:
-![Dashboard](screenshots/dashboard.jpg)
+
 
 2. **Estadísticas (4 gráficas aisladas procesando `flutter_chart`)**:
-![Stats](screenshots/stats.jpg)
+
+![img.png](img.png)
 
 3. **Listado de Establecimientos (Esleto y Listado real `ListView.separated`)**:
-![Lista Establecimientos Skeletons y Lista Real](screenshots/listado_establecimientos.jpg)
-
+![img_1.png](img_1.png)
 4. **Formulario de Creación (Limpio)**:
-![Formulario Crear](screenshots/form_crear.jpg)
-
-5. **Formulario de Edición (Incluyendo Logo local y Picker de Fotos)**:
-![Formulario Editar](screenshots/form_editar.jpg)
-
-6. **Eliminación y Advertencias (Alert Dialog modal confirmaciones backend)**:
-![Eliminar Registro Confirmaciones](screenshots/delete_confirm.jpg)
+![img_2.jpeg](img_2.jpeg)
 
 ---
 
